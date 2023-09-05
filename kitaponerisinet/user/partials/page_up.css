@@ -1,0 +1,9 @@
+  .page_up{
+    width: 90px;
+    height: 75px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    background-color: blueviolet;
+    border: 3px solid rgb(216, 165, 240);
+    border-radius: 10px;
+  }
